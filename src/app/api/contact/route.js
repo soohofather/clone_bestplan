@@ -50,7 +50,6 @@ export async function POST(request) {
     }
 
     const firebaseResult = await firebaseResponse.json();
-    console.log("Firebase response:", firebaseResult);
 
     return Response.json({
       success: true,

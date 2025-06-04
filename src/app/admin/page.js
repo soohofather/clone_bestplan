@@ -58,7 +58,7 @@ export default async function AdminPage() {
                 <th>연락처</th>
                 <th>상담가능시간</th>
                 <th>신청일시</th>
-                <th>Firebase ID</th>
+                <th>ID</th>
               </tr>
             </thead>
             <tbody>
